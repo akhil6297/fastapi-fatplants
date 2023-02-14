@@ -1,0 +1,9 @@
+aiomysql
+cryptography
+databases==0.7.0
+fastapi==0.91.0
+mysql-connector-python==8.0.32
+pydantic==1.10.4
+PyMySQL==1.0.2
+sqlalchemy 
+uvicorn==0.20.0
